@@ -1,0 +1,10 @@
+{
+  "description": "Streamline operations for coffee businesses with a responsive ERP system that offers role-based access, employee management, and performance tracking.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
